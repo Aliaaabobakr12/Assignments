@@ -4,6 +4,13 @@ Aliaa Abobakr Elshiekh
 CSE 3
 */
 
+/*
+Using pointers, create a structure called employee that contains 3 members: an employee number of type int, employee 
+name of type string and an employee salary of type float. Ask the user to fill in this data for a number of employees and then 
+display the information of the three employees. Add a function that takes as argument the array of students and prints the record of 
+the employee with maximum salary.
+*/
+
 #include <iostream>
 using namespace std;
 
