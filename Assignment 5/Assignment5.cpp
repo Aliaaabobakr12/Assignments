@@ -5,6 +5,10 @@ CSE 3
 Assignment 5
 */
 
+/*
+Implemntation of tower of Hanoi algorithm.
+*/
+
 #include <iostream>
 
 using namespace std;
