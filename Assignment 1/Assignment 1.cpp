@@ -4,6 +4,16 @@ Aliaa Abobakr Elshiekh
 CSE 3
 */
 
+/*
+ Write a function that accept two 2D arrays and then multiplicate them (dot product).
+ Also, write another function to display the given array in a tabular form.
+ Call the functions and print the contents of the two arrays and the resulted array in a tabular form.
+*/
+
+/*
+This assignment shows usage of array which is type of data structure.
+*/
+
 #include <iostream>
 using namespace std;
 
