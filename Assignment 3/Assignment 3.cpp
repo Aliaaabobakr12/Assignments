@@ -5,6 +5,11 @@ CSE 3
 Assignment 3
 */
 
+/*
+Linked Lists: Write and call a function that returns the 
+average degree of all students in the linked list.
+*/
+
 #include<iostream>
 using namespace std;
 
