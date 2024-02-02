@@ -5,6 +5,11 @@ CSE 3
 Assignment 4
 */
 
+/*
+Stack: Write a C++ program to evaluate a postfix mathematical expression provided by the user
+using the array-based stack implementation.
+*/
+
 #include <iostream>
 using namespace std;
 
